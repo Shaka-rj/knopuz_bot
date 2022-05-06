@@ -6,3 +6,5 @@ qadam malumotlari uchun shu papkada 'qadam' fayli yaratiladi
 tranzaksiya malumotlari uchun shu papkada trans papkasi yaratiladi
 sovg'alar berilganini bilish uchun sovga papkasi yaratiladi
 tokenlar. bottoken telegramdagi botning tokeni. token1 va token2 biznes.knop.uz tomonidan berilgan tokenlar.
+# papkalar_haqida 
+trans papkasida pul o'tkazilayotgan hisob saqlanadi. Vaqtinchalik. sovga papkasida sovg'a berilgan odamlar chat_id lari saqlanadi
